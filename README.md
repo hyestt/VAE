@@ -1,7 +1,10 @@
 # VAE
 
+Generate images from the data distribution using VAE(Variational AutoEncoder)
+Implement a VAE to learn the data distribution of the MNIST dataset.
 
-Function in VAE
+
+Function in VAE:
 
 1) generate samples(self, z np): Generate random samples from the provided latent samples.
 
