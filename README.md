@@ -18,4 +18,5 @@ Function in VAE
 7) update op(self, loss, learning rate): Perform parameter update. Use tf.train.AdamOptimizer to minimize the loss of VAE and update the parameters.
 
 The result graph: 
+
 ![alt text](https://github.com/hyestt/VAE/blob/master/VAE/latent_space_vae.png)
